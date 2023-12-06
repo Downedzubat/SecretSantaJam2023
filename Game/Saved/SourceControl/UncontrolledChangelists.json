@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Blueprints/negan-twd-6x16jjh.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Blueprints/negan-twd-6x16jjh_Sprite.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Blueprints/NPCTest.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Blueprints/NPCAITest.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3G/OX81P9ZSIXHCO3AWN3BSVG.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DL/J3U6G8QEC9C1U8WJJBDSYY.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OC/CMCESL16SLEYXNEYIMAO34.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Blueprints/Capture_Sprite.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/UI/SIVI7DHI6EBDTGGXQM72RR.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CG/VY4P2JV05PBZD7M9E0KY61.uasset",
+				"C:/Users/Michael/Desktop/SecretSantaJamGame/Content/ThirdPerson/Blueprints/Capture.uasset"
+			]
+		}
+	]
+}
